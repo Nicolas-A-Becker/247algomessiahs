@@ -1,4 +1,4 @@
-Flight booking software group project.
+Flight booking software group project
 
 Group: Algo Messiahs
 
